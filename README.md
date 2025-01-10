@@ -1,6 +1,6 @@
 # Flight Delay Prediction Using Random Forest
 ## Project Description
-This project leverages machine learning to predict flight delays using a dataset of historical flight records. The goal is to identify key factors contributing to delays and provide actionable insights for improving operational efficiency in the aviation industry. The model is built to prioritize the recall of delayed flights, addressing the significant economic and logistical impacts of delays.
+This project leverages machine learning to predict flight delays using a dataset of historical flight records in the US between 2019 and 2023. The goal is to identify key factors contributing to delays and provide actionable insights for improving operational efficiency in the aviation industry. The model is built to prioritize the recall of delayed flights, addressing the significant economic and logistical impacts of delays.
 
 ## Dataset
 - Source: [Kaggle Airline Delay Dataset](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023)
